@@ -1,0 +1,28 @@
+{
+  "name": "generator-ts-template",
+  "version": "0.0.1",
+  "main": "generators/index.js",
+  "license": "MIT",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": {
+    "name": "John Doe",
+    "email": "johan@doe.com"
+  },
+  "scripts": {
+    "test": "yeoman-test"
+  },
+  "dependencies": {
+    "yeoman-generator": "^7.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "@types/yeoman-generator": "^5.2.14",
+    "typescript": "^5.7.2",
+    "yeoman-test": "^10.0.1"
+  }
+}
