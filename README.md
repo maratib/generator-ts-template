@@ -1,0 +1,1 @@
+# yo Generator Typescript Template
